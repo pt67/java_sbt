@@ -1,0 +1,13 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/crazcodernp/merokam/target/scala-2.13/merokam_2.13-1.0-SNAPSHOT-sources.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	logback.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/crazcodernp/merokam/conf/logback.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	controllers/HomeController.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/crazcodernp/merokam/app/controllers/HomeController.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	routes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/crazcodernp/merokam/conf/routes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/crazcodernp/merokam/conf/application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	controllers/ArticleController.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/crazcodernp/merokam/app/controllers/ArticleController.java[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

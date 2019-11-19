@@ -1,0 +1,5 @@
+[0m[[0m[31merror[0m] [0m[0m/home/crazcodernp/merokam/app/views/article.scala.html:6:27: value at is not a member of controllers.ReverseAssets[0m
+[0m[[0m[31merror[0m] [0m[0mdid you mean wait?[0m
+[0m[[0m[31merror[0m] [0m[0m<img src= '@routes.Assets.at("images/5.jpg")'/>[0m
+[0m[[0m[31merror[0m] [0m[0m                          ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
